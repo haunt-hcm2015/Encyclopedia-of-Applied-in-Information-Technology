@@ -3428,4 +3428,4 @@ The many academic specialized covered in the our encyclopedia with demo, but are
 <a href="http://dmca.com/Protection/Status.aspx?ID=b1a027b4-dcec-4f36-a45b-3f1578828e77" title="DMCA.com Protection Status"> 
  <img src="images/dmca_protected_26_120.png" alt="DMCA.com Protection Status">
 </a>  
- <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>
+
