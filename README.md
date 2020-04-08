@@ -8,9 +8,6 @@ The outline of the encyclopedia of applied in information technology and researc
 **_The origin of rules: Include entities inextricably linked, and have the mutual interaction_** <br/>
 **_(Editor the Encyclopaedia of Applied in Information Technology)_**
 
-**- _All thing in the universe, even though invisible or tangible; when converging full of the suitable condition, element, rule and don't be missed one detail then they can connect, communicate with each other or become the thing you want to be. All-time is looking for the new things and creative._** <br/>
-**_(Editor the Encyclopaedia of Applied in Information Technology)_**
-
 **- _A careless one doing missing or surplus as good as a mile_** <br/>
 **_(Editor the Encyclopaedia of Applied in Information Technology)_**
 
