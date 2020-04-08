@@ -15,6 +15,7 @@ The outline of the encyclopedia of applied in information technology and researc
 The many academic specialized covered in the our encyclopedia with demo, but are continuous updating:
 
 + Mathematics
++ Quantum Physics
 + Quantum Computing
 + Chemistry
 + Biology
@@ -99,7 +100,6 @@ The many academic specialized covered in the our encyclopedia with demo, but are
 + Ubiquitous and Pervasive Computing
 + Urban and Regional Development
 + Virtual Learning Environments
-+ Nuclear Science and Engineering
 + Web Technologies
 + Solution Architecture 
 + Cisco, Microsoft, Google, IBM Solution Technology
@@ -140,34 +140,34 @@ The many academic specialized covered in the our encyclopedia with demo, but are
 
 ![blue-line](/images/blue-line.png)
 
-|  **Alphabet A-Z** | **Hardware Engineering** | **Ubiquitous and Pervasive Computing** | 
-| --- | --- | ---|
-|  **A** |  |  |  
-|  **B** |  |  |  
-|  **C** |  |  |  
-|  **D** |  |  |  
-|  **E** |  |  |  
-|  **F** |  |  |  
-|  **G** |  |  | 
-|  **H** |  |  |    
-|  **I** |  |  | 
-|  **J** |  |  |   
-|  **K** |  |  |  
-|  **L** |  |  |  
-|  **M** |  |  |  
-|  **N** |  |  |  
-|  **O** |  |  | 
-|  **P** |  |  |  
-|  **Q** |  |  | 
-|  **R** |  |  |  
-|  **S** |  |  | 
-|  **T** |  |  |  
-|  **U** |  |  | 
-|  **V** |  |  | 
-|  **W** |  |  |  
-|  **X** |  |  | 
-|  **Y** |  |  |  
-|  **Z** |  |  | 
+|  **Alphabet A-Z** | **Hardware Engineering** | **Ubiquitous and Pervasive Computing** | **Quantum Computing**|
+| --- | --- | ---|---|
+|  **A** |  |  |    |
+|  **B** |  |  |    |
+|  **C** |  |  |    |
+|  **D** |  |  |    |
+|  **E** |  |  |    |
+|  **F** |  |  |    |
+|  **G** |  |  |    |
+|  **H** |  |  |    |
+|  **I** |  |  |    |
+|  **J** |  |  |    |
+|  **K** |  |  |    |
+|  **L** |  |  |    |
+|  **M** |  |  |    |
+|  **N** |  |  |    |
+|  **O** |  |  |    |
+|  **P** |  |  |    |
+|  **Q** |  |  |    |
+|  **R** |  |  |    |
+|  **S** |  |  |    |
+|  **T** |  |  |    |
+|  **U** |  |  |    |
+|  **V** |  |  |    |
+|  **W** |  |  |    |
+|  **X** |  |  |    |
+|  **Y** |  |  |    |
+|  **Z** |  |  |    |
 
 ![blue-line](/images/blue-line.png)
 
@@ -264,7 +264,7 @@ The many academic specialized covered in the our encyclopedia with demo, but are
 
 ![blue-line](/images/blue-line.png)
 
-|  **Alphabet A-Z** | **Social Networking and Computing** | **Web Technologies** | **Solution Architecture** | **Nuclear Science and Engineering** | **Virtual Learning Environments** | **Systems and Software Engineering** |
+|  **Alphabet A-Z** | **Social Networking and Computing** | **Web Technologies** | **Solution Architecture** | **Quantum Physics** | **Virtual Learning Environments** | **Systems and Software Engineering** |
 | --- | --- | --- | --- | --- | --- | --- |
 |  **A** |  |  |  |  |  |  |
 |  **B** |  |  |  |  |  |  |
