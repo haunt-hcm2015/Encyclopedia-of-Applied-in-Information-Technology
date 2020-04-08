@@ -8,7 +8,7 @@ The outline of the encyclopedia of applied in information technology and researc
 **_The origin of rules: Include entities inextricably linked, and have the mutual interaction_** <br/>
 **_(Editor the Encyclopaedia of Applied in Information Technology)_**
 
-**- _A careless one doing missing or surplus as good as a mile_** <br/>
+**_A careless one doing missing or surplus as good as a mile_** <br/>
 **_(Editor the Encyclopaedia of Applied in Information Technology)_**
 
 ## The research field in Encyclopaedia of Applied in Information Technology
