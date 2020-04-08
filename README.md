@@ -5,7 +5,8 @@ The outline of the encyclopedia of applied in information technology and researc
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/08/Encyclopedia_of_Religion.JPG)
  
-**_The origin of rules: Include entities inextricably linked, have the mutual interaction_**
+**_The origin of rules: Include entities inextricably linked, and have the mutual interaction_**
+
 **_(Editor the Encyclopaedia of Applied in Information Technology)_**
 
 **- _All thing in the universe, even though invisible or tangible; when converging full of the suitable condition, element, rule and don't be missed one detail then they can connect, communicate with each other or become the thing you want to be. All-time is looking for the new things and creative._** <br/>
