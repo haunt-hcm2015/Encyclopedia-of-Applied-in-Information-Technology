@@ -5,7 +5,7 @@ The outline of the encyclopedia of applied in information technology and researc
 
 ![](https://upload.wikimedia.org/wikipedia/commons/0/08/Encyclopedia_of_Religion.JPG)
  
-**_The origin of rules: Include entities inextricably linked, and have the mutual interaction_** <br/>
+**_The origin of rules: Based on elements of an entity or between the entities have inextricably linked, and mutual interaction_** <br/>
 **_(Editor the Encyclopaedia of Applied in Information Technology)_**
 
 **_A careless one doing missing or surplus as good as a mile_** <br/>
